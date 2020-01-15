@@ -1,5 +1,6 @@
 {
   "name": "my-first-app",
+  "author": "Jane Doe",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
